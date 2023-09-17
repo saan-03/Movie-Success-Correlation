@@ -6,3 +6,5 @@ Learning goals:
 1. Learning Python data analysis basics
 2. Using libraries such as Pandas, NumPy, Matplotlib and Seaborn
 3. Try out some basic analysis in Jupyter notebooks
+
+My first project!
